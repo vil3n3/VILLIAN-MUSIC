@@ -5,9 +5,9 @@ from pyrogram.types import InputMediaPhoto
 from pyrogram import InlineKeyboardButton, InlineKeyboardMarkup
 import requests
 
-api_id = YOUR_API_ID  # Replace with your API ID
-api_hash = 'YOUR_API_HASH'  # Replace with your API hash
-bot_token = 'YOUR_BOT_TOKEN'  # Replace with your bot token
+api_id = '21846639'  # Replace with your API ID
+api_hash = '2cebc99bd8378b5237b31ea8e7496d79'  # Replace with your API hash
+bot_token = '6646872835:AAHVwzim5aG4RSBgiLsUNCRi8ILgmCCrglo'  # Replace with your bot token
 
 app = Client('Hiroko', api_id, api_hash, bot_token=bot_token)
 
