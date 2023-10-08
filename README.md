@@ -47,7 +47,7 @@ This project is licensed under the [MIT License](LICENSE).
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-            ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
 
 <p align="center">
