@@ -9,7 +9,7 @@ api_id = '21846639'  # Replace with your API ID
 api_hash = '2cebc99bd8378b5237b31ea8e7496d79'  # Replace with your API hash
 bot_token = '6646872835:AAHVwzim5aG4RSBgiLsUNCRi8ILgmCCrglo'  # Replace with your bot token
 
-app = Client('VILLIAN PLAYER', api_id, api_hash, bot_token=bot_token)
+app = Client('VILLIAN', api_id, api_hash, bot_token=bot_token)
 
 @app.on_message(filters.command('start'))
 def start_command_handler(client: Client, message: Message):
